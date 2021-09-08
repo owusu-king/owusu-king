@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @owusu-king
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Projects
+- 🌱 I’m currently learning Java
+- 💞️ I’m willing to keep up with digital trends
 - 📫 You can reach me on owusuking401@gmail.com or 0247022382
 
 <!---
