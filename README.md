@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Java
 - 💞️ I’m willing to keep up with digital trends
-- 📫 You can reach me on owusuking401@gmail.com or 0247022382
+- 📫 You can reach me on owusuking401@gmail.com or +233247022382
 
 <!---
 owusu-king/owusu-king is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
