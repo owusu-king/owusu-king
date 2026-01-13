@@ -1,5 +1,6 @@
 *Hey, Thanks for hitting my page. I'm King Owusu, a very versatile indidual who love to collaborate and learn new things.*
-**I love everything about the fascinating world of IT. Cybersecurity & Artificial Intelligence are my favorite topics**  
+
+**I love everything about the fascinating world of IT especially Cybersecurity & Artificial Intelligence**  
 **My passion is found in systems security, breaking barriers, and building intelligent solutions**
 **I like to explore novel ideas, participate in intellectual challenges and to engage my brain on very uncomfortable journeys.**
 **Lifelong learner focused on practical skills, research, and real-world impact**
