@@ -1,4 +1,4 @@
-### Hey, Thanks for hitting my page. I'm King Owusu, a very versatile indidual who love to collaborate and learn new things.
+*Hey, Thanks for hitting my page. I'm King Owusu, a very versatile indidual who love to collaborate and learn new things.*
 **I love everything about the fascinating world of IT. Cybersecurity & Artificial Intelligence are my favorite topics**  
 **My passion is found in systems security, breaking barriers, and building intelligent solutions**
 **I like to explore novel ideas, participate in intellectual challenges and to engage my brain on very uncomfortable journeys.**
@@ -19,6 +19,7 @@ You can connect with me via +233247022382
 - Exploring **Offensive Security techniques**
 - Learning advanced **ML/DL problem-solving**
 - Contributing to **open-source communities**
+- Sharing knowledge through **training programs**
 
 ---
 
